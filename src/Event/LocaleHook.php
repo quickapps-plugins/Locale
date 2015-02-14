@@ -39,7 +39,7 @@ class LocaleHook implements EventListenerInterface
     /**
      * Renders all blocks registered by Locale plugin.
      *
-     * Locale plugin has one built-in blocks that comes with every QuickApps CMS
+     * Locale plugin has one built-in block that comes with every QuickAppsCMS
      * installation: "Language witcher" which allows users to change from one
      * language to another.
      *
